@@ -1,0 +1,37 @@
+# jemdoc: menu{MENU}{index.html}
+= Matthew G. Jones, PhD
+
+~~~
+{}{img_left}{headshot_cropped2.png}{250px}{250px}
+
+
+== About Me
+I am an NCI K99/R00 Postdoctoral Scholar at Stanford University in [https://profiles.stanford.edu/howard-chang Howard Chang's lab]. Generally, I am interested in studying how tumors evolve over time, especially under various pressures exerted by the immune system and therapies. My work typically takes advantage of high-throughput sequencing assays (e.g., scRNA-seq and spatial transcriptomics), lineage-tracing technologies, and new computational tools and inference techniques.
+
+My current research focuses on building more predictive models of tumor evolution, with a focus on how circular, oncogenic extrachromosomal DNA (ecDNA) reshape traditional rules of inheritance to accelerate tumor evolution and overcome targeted therapies. A key outcome of my research thus far is contributing to the discovery that ecDNA amplifications are often co-inherited during mitosis, leading to non-coding oncogenic amplifications and new therapeutic opportunities. Previously, I developed single-cell evolving lineage tracing technologies and computational tools.  In this, I developed [https://github.com/YosefLab/Cassiopeia Cassiopeia], a software suite for reconstructing single-cell phylogenies from continuous CRISPR/Cas9 barcoding data. We used these tools to study how aggressive cancers evolve from a single transformed cell and eventually metastasize throughout a body.
+
+In 2020, I spent the summer as a research intern at [https://research.google/teams/health/ Google Brain Genomics] working on deep learning methods for Electronic Health Record (EHR) data.
+
+Previously, I completed my PhD in Bioinformatics at UC San Francisco and UC Berkeley advised by [https://weissman.wi.mit.edu/ Jonathan Weissman] and [https://yoseflab.github.io/ Nir Yosef]. Before my graduate work, I studied Computer Science at UC Berkeley and worked in the [https://nielsen-lab.github.io/ Nielsen Lab] on developing simulators for large admixture events. And before that, I grew up in a small town outside of Pasadena, CA where I was a tri-sport athelete and musician.
+~~~
+
+
+== Research Interests
+- Cancer evolution
+- Cancer immunology
+- Lineage tracing
+- Genomics technology
+
+== Selected Publications
+. [https://www.biorxiv.org/content/10.1101/2024.10.21.619529v1 Spatiotemporal lineage tracing reveals the dynamic spatial architecture of tumor growth and metastasis.] *Matthew G. Jones*\*, Dawei Sun\*, ..., Fei Chen, Jonathan S. Weissman, Nir Yosef, Dian Yang. /BioRxiv./ 2024.
+. [https://www.nature.com/articles/s41586-024-07861-8 Coordinated inheritance of extrachromosomal DNA species in human cancer cells.] King L Hung\*, *Matthew G Jones*\*, Ivy Tzo-Lo Wong\*, EJ Curtis\*, ..., Paul S Mischel, Howard Y Chang. Accepted in principle, /Nature./ 2024
+. [https://www.biorxiv.org/content/10.1101/2024.02.15.580594v1 CoRAL accurately resolves extrachromosomal DNA genome structures with long-read sequencing.] Kaiyuan Zhu\*, *Matthew G. Jones\**, Jens Luebeck, ..., Paul S. Mischel, Howard Y. Chang, Vineet Bafna. Accepted in principle, /Genome Research./ 2024. 
+. [https://www.sciencedirect.com/science/article/pii/S0092867422004627 Lineage Recording Reveals the Phylodynamics, Plasticity and Paths of Tumor Evolution.] Dian Yang\*, *Matthew G Jones*\*, ..., Nir Yosef, Tyler Jacks, Jonathan S Weissman. /Cell./ 2022
+. [https://science.sciencemag.org/content/early/2021/01/21/science.abc1944/ Single-cell lineages reveal the rates, routes, and drivers of metastasis in cancer xenografts.] Jeffrey J. Quinn\*, *Matthew G Jones*\*, Ross A Okimoto, Shigeki Nanjo, Michelle M Chan, Nir Yosef, Trever G Bivona, Jonathan S Weissman. /Science/. 2021.
+. [https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02000-8 Inference of Single Cell Phylogenies from Lineage Tracing Data with Cassiopeia.] *Matthew G Jones*\*, Jeffrey J Quinn\*, Alex Khodaverdian\*, Michelle M Chan, Jeffrey A Hussmann, Robert Wang, Chenling Xu, Jonathan S Weissman, Nir Yosef. /Genome Biology./ 2020.
+
+Find my full publication list [publications.html here].
+
+== Beyond Science
+
+In my downtime, you can find me engrossed in a [booklist.html book], playing guitar, or listening to my records. I often am looking for an excuse to get outside or to travel.
